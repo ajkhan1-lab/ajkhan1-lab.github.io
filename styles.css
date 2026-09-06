@@ -3,7 +3,7 @@ top-header {
   text-align: centre;
 }
 
-mainHeader {
+.mainHeader {
   align: center;
   padding: 100px;
 }
