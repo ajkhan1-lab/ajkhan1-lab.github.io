@@ -2,3 +2,8 @@ top-header {
   background: red;
   text-align: centre;
 }
+
+mainHeader {
+  align: center;
+  padding: 100px;
+}
