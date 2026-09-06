@@ -1,12 +1,41 @@
-top-header {
-  background: red;
-  text-align: centre;
-}
-
 .mainHeader {
   text-align: center;
-  padding: 100px;
+  padding: 60px;
   font-size: 60px;
-  background-color: #253D2C;
+  background-color: #0A3323;
+  color:#839958;
+  margin: 0px;
+  font-family: "Times New Roman", Times, serif;
+
 }
 
+.top-header {
+  padding: 1px;
+  font-size: 15px;
+  background-color: #839958;
+  color:#105666;
+  margin: 0px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.about-me {
+  padding: 15px;
+  font-size: 14px;
+  background-color: #F7F4D5;
+  color:#105666;
+  margin: 0px;
+  font-family: "Times New Roman", Times, serif;
+  
+}
+
+.volunteering-expierence {
+  padding: 15px;
+  font-size: 14px;
+  background-color: #F7F4D5;
+  color:#105666;
+  margin: 0px;
+  font-family: "Times New Roman", Times, serif;
+  position: relative;
+  top: 5px;
+  left: 0px;
+}
