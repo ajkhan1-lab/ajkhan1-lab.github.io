@@ -11,7 +11,7 @@ Body {
     background-size: cover;
     background-position: center
     font-family: 'Times New Roman', Times, serif;
-    color: #F7F4D5;
+    color: #F7F4D5; 
 }
 
 .mytabs {
@@ -90,8 +90,21 @@ Body {
     border-color: #F7F4D5;
 }
 
+.green {
+    background-color: #0A3323;
+    padding: 10px;
+    margin: -10px;
+    border: 100px;
+    border-color: #F7F4D5;  
+}
+
 .Hiking {
     background-color: #0A3323;
+}
+
+.date_updated {
+    margin: 30px;
+    padding-right:20%
 }
 
 #photo_banff {
@@ -125,4 +138,22 @@ Body {
     padding: 11px;
     border-radius: 30px; 
     float: calc(center);
+}
+
+#level_7 {
+    width:120px;
+    height:120px;
+    padding:11px;
+    padding-right: 30px;
+    border-radius:30px; 
+    float: left;
+}
+
+#girlup {
+    width:250;
+    height:310;
+    padding:20px;
+    float: right;
+    border-radius:30px; 
+
 }
