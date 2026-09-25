@@ -108,8 +108,8 @@ Body {
 }
 
 #photo_banff {
-    width:280;
-    height:410;
+    width:270;
+    height:400;
     padding:7px;
     border-radius: 30%; 
     float: calc(center);
