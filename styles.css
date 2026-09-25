@@ -111,7 +111,7 @@ Body {
     width:280;
     height:410;
     padding:7px;
-    border-radius: 30px; 
+    border-radius: 30%; 
     float: calc(center);
 }
 
